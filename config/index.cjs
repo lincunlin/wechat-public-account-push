@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '8f2a97e0e31f4ee5e12ffce9bb41e199',
 
   PROVINCE: '江西',
-  CITY: '九江市濂溪区',
+  CITY: '九江',
 
   USERS: [
     {
